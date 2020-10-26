@@ -84,10 +84,5 @@
     "access": "public",
     "tag": "next",
     "registry": "https://registry.npmjs.org/"
-  },
-  "git": {
-    "scripts": {
-      "pre-push": "npx git-scripts-pre-push"
-    }
   }
 }
